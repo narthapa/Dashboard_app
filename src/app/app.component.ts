@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'dashboard';
+  message = 'This is my first Dashboard project.';
 }
